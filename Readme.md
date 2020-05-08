@@ -1,6 +1,6 @@
 # WakeMeOnLan
 
-There is smapp python 3 script. 
+There is small python 3 script. 
 This script is an upgraded version of an existing one on github:
 https://github.com/bentasker/Wake-On-Lan-Python
 
